@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Cond_Weinb.props" />
+</Project>
